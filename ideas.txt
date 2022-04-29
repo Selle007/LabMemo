@@ -1,0 +1,1 @@
+count per amount and then delete using bookname+

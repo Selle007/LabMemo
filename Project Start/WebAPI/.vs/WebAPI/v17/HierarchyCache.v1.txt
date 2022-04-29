@@ -1,0 +1,772 @@
+﻿++Solution 'WebAPI' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:WebAPI.sln
+++WebAPI
+i:{00000000-0000-0000-0000-000000000000}:WebAPI
+++Connected Services 
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>237
+++Dependencies
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>236
+++Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:analyzers
+++Frameworks
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:frameworks
+++Microsoft.AspNetCore.App
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\microsoft.netcore.app
+++Packages
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:packages
+++Imports
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>254
+++Sdk.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++Properties
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\properties\
+++launchSettings.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\properties\launchsettings.json
+++wwwroot
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\
+++css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\css\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\js\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\
+++favicon.ico
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\favicon.ico
+++bin
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\
+++Controllers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\controllers\
+++BookController.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\controllers\bookcontroller.cs
+++Data
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\data\
+++DataContext.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\data\datacontext.cs
+++obj
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\
+++Debug
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\
+++project.assets.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\project.assets.json
+++project.nuget.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\staticwebassets.pack.sentinel
+++WebAPI.csproj.EntityFrameworkCore.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.entityframeworkcore.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.entityframeworkcore.targets
+++WebAPI.csproj.nuget.dgspec.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.nuget.dgspec.json
+++WebAPI.csproj.nuget.g.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.nuget.g.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.nuget.g.props
+++WebAPI.csproj.nuget.g.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.nuget.g.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\webapi.csproj.nuget.g.targets
+++Pages
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\pages\
+++Shared
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\shared\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\pages\shared\
+++_ViewImports.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\_viewstart.cshtml
+++Error.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\error.cshtml
+++Index.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\index.cshtml
+++Privacy.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\privacy.cshtml
+++References
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\references\
+++appsettings.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\appsettings.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\appsettings.json
+++appsettings.Development.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\appsettings.development.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\appsettings.development.json
+++Book.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\book.cs
+++Program.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\program.cs
+++No service dependencies discovered
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>238
+++Microsoft.AspNetCore.Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.4\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.4\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++EntityFramework (6.4.4)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>499
+++Microsoft.EntityFrameworkCore (6.0.4)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>508
+++Microsoft.EntityFrameworkCore.Design (6.0.4)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>509
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.4)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>510
+++Swashbuckle.AspNetCore (6.3.1)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:>468
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.202\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++site.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\css\site.css
+++site.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\js\site.js
+++bootstrap
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\
+++jquery
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\
+++jquery-validation
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation-unobtrusive\
+++net6.0
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\release\net6.0\
+++_Layout.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\shared\_validationscriptspartial.cshtml
+++Error.cshtml.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\error.cshtml.cs
+++Index.cshtml.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\index.cshtml.cs
+++Privacy.cshtml.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\privacy.cshtml.cs
+++Microsoft.Common.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++dist
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\dist\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\license.txt
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++ref
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\ref\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\ref\
+++refint
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\refint\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\refint\
+++scopedcss
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\
+++staticwebassets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\staticwebassets\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\apphost.exe
+++staticwebassets.build.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\staticwebassets.development.json
+++WebAPI.AssemblyInfo.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.assemblyinfo.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.assemblyinfo.cs
+++WebAPI.AssemblyInfoInputs.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.assemblyinfoinputs.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.assemblyinfoinputs.cache
+++WebAPI.assets.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.assets.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.assets.cache
+++WebAPI.csproj.AssemblyReference.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.csproj.assemblyreference.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.csproj.assemblyreference.cache
+++WebAPI.csproj.BuildWithSkipAnalyzers
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.csproj.buildwithskipanalyzers
+++WebAPI.csproj.CopyComplete
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.csproj.copycomplete
+++WebAPI.csproj.CoreCompileInputs.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.csproj.corecompileinputs.cache
+++WebAPI.csproj.FileListAbsolute.txt
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.csproj.filelistabsolute.txt
+++WebAPI.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\ref\webapi.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\refint\webapi.dll
+++WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.generatedmsbuildeditorconfig.editorconfig
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.generatedmsbuildeditorconfig.editorconfig
+++WebAPI.genruntimeconfig.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.genruntimeconfig.cache
+++WebAPI.GlobalUsings.g.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.globalusings.g.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.globalusings.g.cs
+++WebAPI.MvcApplicationPartsAssemblyInfo.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.mvcapplicationpartsassemblyinfo.cache
+++WebAPI.MvcApplicationPartsAssemblyInfo.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.mvcapplicationpartsassemblyinfo.cs
+++WebAPI.pdb
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.pdb
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.pdb
+++WebAPI.RazorAssemblyInfo.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.razorassemblyinfo.cache
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.razorassemblyinfo.cache
+++WebAPI.RazorAssemblyInfo.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\webapi.razorassemblyinfo.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\net6.0\webapi.razorassemblyinfo.cs
+++_Layout.cshtml.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\pages\shared\_layout.cshtml.css
+++Microsoft.NuGet.ImportBefore.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++jquery.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++runtimes
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\
+++EntityFramework.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\entityframework.dll
+++EntityFramework.SqlServer.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\entityframework.sqlserver.dll
+++Humanizer.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\humanizer.dll
+++Microsoft.Data.SqlClient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.data.sqlclient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+++Microsoft.EntityFrameworkCore.Abstractions.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.entityframeworkcore.abstractions.dll
+++Microsoft.EntityFrameworkCore.Design.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.entityframeworkcore.design.dll
+++Microsoft.EntityFrameworkCore.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.entityframeworkcore.dll
+++Microsoft.EntityFrameworkCore.Relational.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.entityframeworkcore.relational.dll
+++Microsoft.EntityFrameworkCore.SqlServer.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.entityframeworkcore.sqlserver.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.extensions.caching.memory.dll
+++Microsoft.Identity.Client.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.OpenApi.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.openapi.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\microsoft.win32.systemevents.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\microsoft.win32.systemevents.dll
+++Swashbuckle.AspNetCore.Swagger.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\swashbuckle.aspnetcore.swagger.dll
+++Swashbuckle.AspNetCore.SwaggerGen.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggergen.dll
+++Swashbuckle.AspNetCore.SwaggerUI.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\swashbuckle.aspnetcore.swaggerui.dll
+++System.CodeDom.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.codedom.dll
+++System.Configuration.ConfigurationManager.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Data.SqlClient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.data.sqlclient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp2.1\system.data.sqlclient.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp2.1\system.data.sqlclient.dll
+++System.Drawing.Common.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.drawing.common.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\system.drawing.common.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Runtime.Caching.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.runtime.caching.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.runtime.caching.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.security.permissions.dll
+++System.Windows.Extensions.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\system.windows.extensions.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\system.windows.extensions.dll
+++WebAPI.deps.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.deps.json
+++WebAPI.exe
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.exe
+++WebAPI.runtimeconfig.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.runtimeconfig.json
+++WebAPI.staticwebassets.runtime.json
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\webapi.staticwebassets.runtime.json
+++bundle
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\bundle\
+++projectbundle
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\projectbundle\
+++Microsoft.Extensions.ApiDescription.Server.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.props
+++Swashbuckle.AspNetCore.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\swashbuckle.aspnetcore\6.3.1\build\swashbuckle.aspnetcore.props
+++Microsoft.EntityFrameworkCore.Design.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\microsoft.entityframeworkcore.design\6.0.4\build\net6.0\microsoft.entityframeworkcore.design.props
+++EntityFramework.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\buildtransitive\netcoreapp3.0\entityframework.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\build\netcoreapp3.0\entityframework.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\build\entityframework.props
+++Microsoft.NuGet.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain)
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk-manifests\6.0.200\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++bootstrap.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++unix
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\
+++win
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x86\
+++WebAPI.styles.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\bundle\webapi.styles.css
+++WebAPI.bundle.scp.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\projectbundle\webapi.bundle.scp.css
+++Microsoft.NET.ILLink.Tasks.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++bootstrap.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\jquery\dist\jquery.min.map
+++native
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm\native\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x64\native\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x86\native\
+++_Layout.cshtml.rz.scp.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\debug\net6.0\scopedcss\pages\shared\_layout.cshtml.rz.scp.css
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++WebAPI.csproj.user
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\webapi.csproj.user
+++Microsoft.NET.props
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Microsoft.Extensions.ApiDescription.Server.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\microsoft.extensions.apidescription.server\3.0.0\build\microsoft.extensions.apidescription.server.targets
+++EntityFramework.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\buildtransitive\netcoreapp3.0\entityframework.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\build\netcoreapp3.0\entityframework.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\.nuget\packages\entityframework\6.4.4\build\entityframework.targets
+++bootstrap.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++netcoreapp2.1
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp2.1\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp2.1\
+++netcoreapp3.0
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.0\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.0\
+++netcoreapp3.1
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++Microsoft.Data.SqlClient.SNI.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-arm64\native\sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x64\native\sni.dll
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\debug\net6.0\runtimes\win-x86\native\sni.dll
+++Microsoft.Docker.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.Web.IISSupport.targets
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
+++bootstrap.rtl.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Books.cs
+++Release
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\release\
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\bin\release\
+++Migrations
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\migrations\
+++20220428213459_CreateInitial.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\migrations\20220428213459_createinitial.cs
+++20220428213459_CreateInitial.Designer.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\migrations\20220428213459_createinitial.designer.cs
+++DataContextModelSnapshot.cs
+i:{99862ab8-ab79-4b92-a1e0-0019859a03b2}:c:\users\memo\desktop\lab 1\project start\webapi\webapi\obj\datacontextmodelsnapshot.cs
